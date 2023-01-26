@@ -1,6 +1,6 @@
   
   header {
-    background-color: #333333;
+    background-color: #df48a0;
     color: #f2f2f2;
     padding: 20px;
     text-align: center;
@@ -9,7 +9,7 @@
   nav {
     display: flex;
     justify-content: space-around;
-    background-color: #555555;
+    background-color: #a51078;
     padding: 20px;
   }
   
@@ -33,8 +33,8 @@
   
   section {
     width: 30%;
-    background-color: #333333;
-    color: red;
+    background-color: #3013af;
+    color: rgb(0, 195, 255);
     padding: 20px;
     margin: 20px;
     text-align: center;
@@ -47,10 +47,10 @@
   
  body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #555555;
+  background-color: #ffffff;
   }
   footer {
-    background-color: #333333;
+    background-color: #0bb928;
     color: #f2f2f2;
     padding: 20px;
     text-align: center;
